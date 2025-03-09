@@ -36,6 +36,10 @@
         {
             "structure": "dungeon-zombie",
             "rarity": 800
+        },
+        {
+            "structure": "ancient-city",
+            "rarity": 800
         }
     ],
     "objects": [

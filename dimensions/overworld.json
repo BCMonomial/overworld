@@ -24,7 +24,11 @@
     "jigsawStructures": [
         {
             "structure": "trail_chambers",
-            "rarity": 1600
+            "rarity": 1200
+        },
+        {
+            "structure": "ancient-city",
+            "rarity": 1200
         }
     ],
     "logicalHeight": 1024,

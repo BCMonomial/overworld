@@ -24,7 +24,7 @@
     "jigsawStructures": [
         {
             "structure": "trail-ruins",
-            "rarity": 1000
+            "rarity": 800
         },
         {
             "structure": "ruined-portal",
@@ -41,6 +41,10 @@
         {
             "structure": "dungeon-zombie",
             "rarity": 800
+        },
+        {
+            "structure": "ancient-city",
+            "rarity": 1200
         }
     ],
     "objects": [
